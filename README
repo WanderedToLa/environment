@@ -1,7 +1,9 @@
+# git
+
 git config --global user.name "WanderedToLa"
 git config --global user.email "rladntjr9808@gmail.com"
 
-#neovim
+# neovim
 
 1. 모드
    i : 입력 모드 (Insert mode) 진입
